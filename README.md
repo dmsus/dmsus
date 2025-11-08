@@ -34,5 +34,3 @@
 
 
 
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmsus&theme=shades_of_purple) 
