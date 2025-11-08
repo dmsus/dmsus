@@ -3,33 +3,42 @@
 # 💻 Dmitrii Maslennikov
 **Senior Software Engineer | Go + Blockchain & Distributed Systems**
 
+> *Building the decentralized future*
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmitrii-maslennikov-a931b41b7)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dong_ruby)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitrymaslennikovs@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitrymaslennikovs@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmsus)
 
+
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="go" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" title="solidity" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" title="ruby" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgresql" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="docker" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="kubernetes" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="redis" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="redis" width="60" height="60"/>&nbsp;
+
+
+
+
 </div>
 
-## Technical Expertise
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-
-</div>
-
-## Recent Work
+**Recent Work**
 
 [**Cross-Chain Bridge Protocol**](https://github.com/dmsus/crossChainBridge "Fork me!")  
-Architected bridge connecting Ethereum ↔ Polygon using event-driven Go microservices, PostgreSQL, and Kubernetes. Achieved 99.9% uptime with gas-optimized contracts.
+*Architected production-grade bridge connecting Ethereum ↔ Polygon networks*
+- **Event-driven Go microservices** with PostgreSQL state management
+- **Gas-optimized Solidity contracts** with EIP-712 signatures  
+- **Kubernetes deployment** with comprehensive monitoring
+- **99.9% uptime** with idempotency guarantees
 
-## 📈 Interests
-Layer 2 scaling · ZK cryptography · Protocol economics
+`#Layer2` `#ZKP` `#DeFi` `#ProtocolDesign` `#MEV`
+
+
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmsus&theme=shades_of_purple) 
