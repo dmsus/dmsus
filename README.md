@@ -1,9 +1,8 @@
 <div align="center">
 
-# 💻 Dmitrii Maslennikov
+# Dmitrii Maslennikov
 **Senior Software Engineer | Go + Blockchain & Distributed Systems**
 
-> *Building the decentralized future*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmitrii-maslennikov-a931b41b7)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dong_ruby)
@@ -32,12 +31,7 @@
 
 [**Cross-Chain Bridge Protocol**](https://github.com/dmsus/crossChainBridge "Fork me!")  
 *Architected production-grade bridge connecting Ethereum ↔ Polygon networks*
-- **Event-driven Go microservices** with PostgreSQL state management
-- **Gas-optimized Solidity contracts** with EIP-712 signatures  
-- **Kubernetes deployment** with comprehensive monitoring
-- **99.9% uptime** with idempotency guarantees
 
-`#Layer2` `#ZKP` `#DeFi` `#ProtocolDesign` `#MEV`
 
 
 
